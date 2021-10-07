@@ -1,0 +1,13 @@
+H:\Algo - Table de 5\Algo - Table de 5\bin\Debug\netcoreapp3.1\Algo - Table de 5.exe
+H:\Algo - Table de 5\Algo - Table de 5\bin\Debug\netcoreapp3.1\Algo - Table de 5.deps.json
+H:\Algo - Table de 5\Algo - Table de 5\bin\Debug\netcoreapp3.1\Algo - Table de 5.runtimeconfig.json
+H:\Algo - Table de 5\Algo - Table de 5\bin\Debug\netcoreapp3.1\Algo - Table de 5.runtimeconfig.dev.json
+H:\Algo - Table de 5\Algo - Table de 5\bin\Debug\netcoreapp3.1\Algo - Table de 5.dll
+H:\Algo - Table de 5\Algo - Table de 5\bin\Debug\netcoreapp3.1\Algo - Table de 5.pdb
+H:\Algo - Table de 5\Algo - Table de 5\obj\Debug\netcoreapp3.1\Algo - Table de 5.csprojAssemblyReference.cache
+H:\Algo - Table de 5\Algo - Table de 5\obj\Debug\netcoreapp3.1\Algo - Table de 5.AssemblyInfoInputs.cache
+H:\Algo - Table de 5\Algo - Table de 5\obj\Debug\netcoreapp3.1\Algo - Table de 5.AssemblyInfo.cs
+H:\Algo - Table de 5\Algo - Table de 5\obj\Debug\netcoreapp3.1\Algo - Table de 5.csproj.CoreCompileInputs.cache
+H:\Algo - Table de 5\Algo - Table de 5\obj\Debug\netcoreapp3.1\Algo - Table de 5.dll
+H:\Algo - Table de 5\Algo - Table de 5\obj\Debug\netcoreapp3.1\Algo - Table de 5.pdb
+H:\Algo - Table de 5\Algo - Table de 5\obj\Debug\netcoreapp3.1\Algo - Table de 5.genruntimeconfig.cache
