@@ -1,0 +1,13 @@
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.exe
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.deps.json
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.runtimeconfig.json
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.runtimeconfig.dev.json
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.dll
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\bin\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.pdb
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.csprojAssemblyReference.cache
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.AssemblyInfoInputs.cache
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.AssemblyInfo.cs
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.csproj.CoreCompileInputs.cache
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.dll
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.pdb
+H:\Algo - catégoriser selon l'âge\Algo - catégoriser selon l'âge\obj\Debug\netcoreapp3.1\Algo - catégoriser selon l'âge.genruntimeconfig.cache
